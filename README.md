@@ -1,1 +1,3 @@
 # freefire
+
+pubg
